@@ -1,6 +1,6 @@
-# Process Scheduling Algorithms
+# CPU Scheduling Algorithms
 
-This repository contains a C++ program that demonstrates various process scheduling algorithms, including FCFS (First-Come, First-Served), SJF (Shortest Job First), SRTF (Shortest Remaining Time First), and RR (Round Robin).
+This repository contains a C++ program that demonstrates various process scheduling algorithms, including FCFS (First-Come, First-Served), SJF (Shortest Job First),  LJF (Longest Job First), SRTF (Shortest Remaining Time First), LRTF (Longest Remaining Time First), and RR (Round Robin).
 
 ## Getting Started
 
