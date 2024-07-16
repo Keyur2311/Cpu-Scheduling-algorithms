@@ -9,13 +9,13 @@ To run the program, follow these steps:
 1. Clone this repository to your local machine.
 
    ```shell
-   git clone git@github.com:Dhru08/Operating-System-Scheduling-algorithms.git
+   git clone git@github.com:Keyur2311/Cpu-Scheduling-algorithms.git
    ```
 
 2. Navigate to the project directory.
 
    ```shell
-   cd Operating-System-Scheduling-algorithms
+   cd Cpu-Scheduling-algorithms
    ```
 
 3. Compile the C++ program.
@@ -50,9 +50,19 @@ This algorithm schedules processes in the order they arrive.
 
 This algorithm schedules processes based on their burst times, selecting the shortest job first.
 
+### LJF (Longest Job First)
+
+This algorithm schedules processes based on their burst times, selecting the longest job first.
+
+
 ### SRTF (Shortest Remaining Time First)
 
 SRTF is a preemptive version of SJF. It selects the process with the shortest remaining time to execute.
+
+
+### LRTF (Longest Remaining Time First)
+
+SRTF is a preemptive version of LJF. It selects the process with the longest remaining time to execute.
 
 ### RR (Round Robin)
 
